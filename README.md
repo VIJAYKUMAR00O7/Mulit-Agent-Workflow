@@ -1,4 +1,4 @@
-# Multi-Agent Workflow System - Lesson 2
+# Multi-Agent Workflow System 
 
 ## 📋 Overview
 
